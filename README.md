@@ -1,1 +1,1 @@
-# SteamVR_Wireless_Receiver-
+# SteamVR_Wireless_Receiver
